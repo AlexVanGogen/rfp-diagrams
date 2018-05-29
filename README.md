@@ -11,4 +11,4 @@ IDEF0, BPMN and Use Case diagrams for given queries
 ![alt text](https://github.com/AlexVanGogen/rfp-diagrams/blob/master/BPMNDiagram.png "BPMN-диаграмма")
 
 ## Диаграмма случаев использования
-![alt text](https://github.com/AlexVanGogen/rfp-diagrams/blob/master/UseCaseDiagram.png "Диаграмма случаев использования")
+![alt text](https://github.com/AlexVanGogen/rfp-diagrams/blob/master/NewUseCaseDiagram.png "Диаграмма случаев использования")
